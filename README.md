@@ -1,2 +1,2 @@
 # nbdev_cards
-A sample how to create cards lib in windows
+A sample how to create cards lib using nbdev
